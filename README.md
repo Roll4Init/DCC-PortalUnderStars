@@ -8,13 +8,16 @@ DCC is better known as Dungeon Crawl Classics which is a role playing game (much
 
 ## Is this a classic RPG using the D20 system?
 
-Yes, while DCC makes use of different dice (D30, D3) the majority of the rolls are completed using the classic seven dice (D4, 
+Yes, while DCC makes use of different dice (D30 for example) the majority of the rolls are completed using the classic seven dice as listed below. 
 
-```DCC Dice Set:
+**DCC Dice Set**
+
+```
 D3, D4, D5, D6, D7, D8, D10, D%10, D12, D14, D16, D20, D24, D30
 ```
 
-```Classic D20 Set:
+**Classic D20 Dice Set**
+```
 D4, D6, D8, D10, D12, D20, D%
 ```
 
